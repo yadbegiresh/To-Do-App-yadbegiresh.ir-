@@ -1,20 +1,25 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# وب‌اپلیکیشن یادبگیرش (Yadbegiresh App) 🌟
 
-# Run and deploy your AI Studio app
+یک پروژه مدرن، سریع و بهینه توسعه‌یافته با آخرین تکنولوژی‌های فرانت‌اند که به عنوان یک بستر فوق‌العاده برای توسعه برنامه‌های تحت وب و پروژه‌های آموزشی طراحی شده است.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/bc208402-2523-4d72-b4bb-040dd26e1d3b
+## 🛠️ تکنولوژی‌های استفاده شده (Tech Stack)
 
-## Run Locally
+این پروژه از به‌روزترین ابزارها و فریم‌ورک‌های توسعه وب بهره می‌برد:
+* **[React 19](https://react.dev/)**: کتابخانه محبوب جاوااسکریپت برای ساخت رابط‌های کاربری کامپوننت‌محور و تعاملی.
+* **[Vite 6](https://vite.dev/)**: ابزاری فوق‌العاده سریع برای بیلد و توسعه سریع‌تر پکیج‌ها با پشتیبانی از Hot Module Replacement.
+* **[Tailwind CSS v4](https://tailwindcss.com/)**: فریم‌ورک قدرتمند طراحی Utility-First جهت استایل‌دهی سریع، زیبا و کاملاً واکنش‌گرا (Responsive).
+* **[Motion (framer-motion)](https://motion.dev/)**: پیاده‌سازی انیمیشن‌های روان و انتقال‌های جذاب بصری بین صفحات و المان‌ها.
+* **[Lucide React](https://lucide.dev/)**: مجموعه آیکون‌های وکتور بسیار زیبا، تمیز و با لود فوق‌العاده سریع.
 
-**Prerequisites:**  Node.js
+---
 
+## 🚀 نحوه راه‌اندازی و اجرا (Getting Started)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+برای اجرای محلی این پروژه روی سیستم خود، مراحل ساده زیر را دنبال کنید:
+
+### ۱. نصب وابستگی‌ها
+ابتدا پروژه‌ را کلون کرده یا فایل‌های آن را باز کنید، سپس دستور زیر را در ترمینال اجرا کنید تا تمام بسته‌های مورد نیاز نصب شوند:
+```bash
+npm install
