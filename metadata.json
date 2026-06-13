@@ -1,0 +1,6 @@
+{
+  "name": "Timeline Maker",
+  "description": "A beautiful modern timeline-based todo task logger with Cloudflare Workers template export and live playground.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
