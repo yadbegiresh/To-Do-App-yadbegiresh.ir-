@@ -47,17 +47,13 @@ npm run build
 این پروژه با عشق و دقت توسط جواد شقاقی توسعه یافته است. هدف مجموعه یادبگیرش، ارتقای سطح یادگیری جامعه برنامه‌نویسی و ارائه آموزش‌های تخصصی، کاربردی و پروژه‌محور است.
 
 برای دسترسی به آموزش‌ها، مقالات و دوره‌های تخصصی می‌توانید از راه‌های زیر استفاده کنید:
-
-* 🌐 وب‌سایت رسمی: [یادبگیرش](https://yadbegiresh.ir?utm_source=chatgpt.com)
-* 📢 تلگرام: [کانال تلگرام](https://t.me/yadbegiresh?utm_source=chatgpt.com)
-* 💼 لینکدین: [پروفایل لینکدین](https://linkedin.com?utm_source=chatgpt.com)
-* 🐦 توییتر (X): [صفحه توییتر](https://twitter.com/yadbegiresh?utm_source=chatgpt.com)
-* 🎥 یوتیوب: [یوتیوب یادبگیرش](https://youtube.com?utm_source=chatgpt.com)
-* 📸 اینستاگرام: [اینستاگرام یادبگیرش](https://instagram.com?utm_source=chatgpt.com)
+* 🌐 وب‌سایت رسمی: [یادبگیرش](https://yadbegiresh.ir)
+* 📢 تلگرام: [کانال تلگرام](https://t.me/yadbegiresh)
+* 💼 لینکدین: [پروفایل لینکدین](https://linkedin.com)
+* 🐦 توییتر (X): [صفحه توییتر](https://twitter.com/yadbegiresh)
+* 🎥 یوتیوب: [یوتیوب یادبگیرش](https://youtube.com)
+* 📸 اینستاگرام: [اینستاگرام یادبگیرش](https://instagram.com)
 
 ---
 
 با یادبگیرش، مسیر برنامه‌نویسی رو سریع‌تر، اصولی‌تر و لذت‌بخش‌تر یاد بگیر! 🚀
-
-```
-```
