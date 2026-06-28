@@ -49,10 +49,10 @@ npm run build
 برای دسترسی به آموزش‌ها، مقالات و دوره‌های تخصصی می‌توانید از راه‌های زیر استفاده کنید:
 * 🌐 وب‌سایت رسمی: [یادبگیرش](https://yadbegiresh.ir)
 * 📢 تلگرام: [کانال تلگرام](https://t.me/yadbegiresh)
-* 💼 لینکدین: [پروفایل لینکدین](https://linkedin.com)
+* 💼 لینکدین: [پروفایل لینکدین](https://www.linkedin.com/in/yadbegiresh)
 * 🐦 توییتر (X): [صفحه توییتر](https://twitter.com/yadbegiresh)
-* 🎥 یوتیوب: [یوتیوب یادبگیرش](https://youtube.com)
-* 📸 اینستاگرام: [اینستاگرام یادبگیرش](https://instagram.com)
+* 🎥 یوتیوب: [یوتیوب یادبگیرش](https://www.youtube.com/@yadbegiresh-ir)
+* 📸 اینستاگرام: [اینستاگرام یادبگیرش](https://instagram.com/yadbegiresh.ir)
 
 ---
 
